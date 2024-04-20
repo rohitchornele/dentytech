@@ -60,9 +60,10 @@ html, body {
 #nav button {
     padding: 7px 12px;
     border-radius: 50px;
-    border: 1.5px solid #000;
+    border: 2px solid #000;
     font-size: 16px;
     font-weight: 600;
+    outline: none;
     /* background-color: white; */
 }
 
